@@ -1,5 +1,5 @@
 .App {
-  max-width: 800px;
+  max-width: 936px; 
   margin: 0 auto;
   padding: 20px;
 }
@@ -9,6 +9,7 @@
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 20px;
   margin-top: 20px;
+  width: 165%; 
 }
 
 .post-card {
